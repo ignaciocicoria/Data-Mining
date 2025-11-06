@@ -33,5 +33,3 @@ El análisis busca identificar patrones y relaciones entre variables climáticas
 
 ---
 
-## 📁 Estructura del repositorio
-
