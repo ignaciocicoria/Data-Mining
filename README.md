@@ -13,21 +13,22 @@ Este repositorio reúne proyectos académicos de minería de datos, realizados a
 ```
 Mineria-de-Datos/
 │
-├── TP1_Analisis-Agricola/
-│   ├── TP1.ipynb
-│   ├──dxCrop_Soil.csv
-│   └── README.md
+├── TP1_Analisis-Agricola/                     # Análisis exploratorio, reducción de dimensionalidad y clustering de datos agrícolas
+│   ├── TP1.ipynb                              # Notebook principal con análisis, PCA, Isomap, t-SNE y K-means
+│   ├── dxCrop_Soil.csv                        # Dataset con variables de cultivo, suelo y clima
+│   └── README.md                              # Descripción breve del TP, objetivos y resultados
 │
-├── TP2_Modelos-Predictivos/
-│   ├── TP2.ipynb
-│   └── README.md
+├── TP2_Modelos-Predictivos/                   # Modelos de regresión y clasificación supervisados
+│   ├── TP2.ipynb                              # Notebook con Árboles de Decisión, Naive Bayes y optimización de hiperparámetros
+│   └── README.md                              # Descripción del TP, dataset y conclusiones
 │
-├── TP3_Prediccion-Climatica/
-│   ├── TP3.ipynb
-│   ├── dxWeather.csv
-│   └── README.md
+├── TP3_Prediccion-Climatica/                  # Predicción de estaciones climáticas con modelos avanzados
+│   ├── TP3.ipynb                              # Notebook con SVM lineal, SVM RBF y Random Forest
+│   ├── dxWeather.csv                          # Dataset meteorológico con etiquetas de estaciones del año
+│   └── README.md                              # Explicación del objetivo, técnicas aplicadas y evaluación
 │
-└── README.md  # General del repositorio
+└── README.md                                  # README general del repositorio con resumen de los tres trabajos
+
 ```
 
 ---
