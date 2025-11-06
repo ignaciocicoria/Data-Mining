@@ -6,3 +6,30 @@ Este repositorio reúne proyectos académicos de minería de datos, realizados a
 * TP2: modelos de regresión (árboles) y clasificación (Naive Bayes, k-NN, Árboles de Decisión) aplicados a datos financieros y farmacéuticos.
 
 * TP3: predicción de estaciones del año con SVM lineal, SVM gaussiano y Random Forest.
+
+---
+  
+# Estructura del repositorio
+```
+Mineria-de-Datos/
+│
+├── TP1_Analisis-Agricola/
+│   ├── TP1.ipynb
+│   ├──dxCrop_Soil.csv
+│   └── README.md
+│
+├── TP2_Modelos-Predictivos/
+│   ├── TP2.ipynb
+│   └── README.md
+│
+├── TP3_Prediccion-Climatica/
+│   ├── TP3.ipynb
+│   ├── dxWeather.csv
+│   └── README.md
+│
+└── README.md  # General del repositorio
+```
+
+---
+
+
