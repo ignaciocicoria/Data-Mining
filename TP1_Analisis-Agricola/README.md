@@ -1,12 +1,12 @@
-# 🌾 TP1 - Análisis Agrícola con Técnicas de Minería de Datos
+#  TP1 - Análisis Agrícola con Técnicas de Minería de Datos
 
-## 📘 Descripción
+##  Descripción
 Este proyecto tiene como objetivo aplicar **técnicas de minería de datos no supervisadas** sobre un conjunto de datos agrícolas.  
 El análisis busca identificar patrones y relaciones entre variables climáticas, de suelo y cultivo, con el fin de comprender la estructura del dataset y reducir su dimensionalidad.
 
 ---
 
-## 🧩 Flujo del trabajo
+##  Flujo del trabajo
 
 1. **Análisis exploratorio de datos (EDA)**
    - Revisión de la estructura del dataset.
